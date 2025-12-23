@@ -1,0 +1,9 @@
+mlruns/
+models/
+data/
+logs/
+*.pkl
+*.joblib
+mlflow.db
+bank310/
+src/__pycache__/
