@@ -1,0 +1,5 @@
+data/
+.rag/
+src/__pycache__/
+embeddings/
+__pycache__/

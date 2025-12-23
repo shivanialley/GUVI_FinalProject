@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+faiss-cpu
+beautifulsoup4
+transformers
+torch
+numpy
+pandas
+tqdm
