@@ -1,0 +1,10 @@
+mlruns/
+models/
+data/
+logs/
+*.pkl
+*.joblib
+mlflow.db
+.covid/
+src/__pycache__/
+__pycache__/
